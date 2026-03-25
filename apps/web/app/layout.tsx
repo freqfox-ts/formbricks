@@ -15,10 +15,10 @@ import "../modules/ui/globals.css";
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Formbricks",
-    default: "Formbricks",
+    template: "%s | TailSpace",
+    default: "TailSpace",
   },
-  description: "Open-Source Survey Suite",
+  description: "Forms",
 };
 
 const RootLayout = async ({ children }: { children: React.ReactNode }) => {
